@@ -33,4 +33,6 @@ The project is targeted at students and learners exploring digital design, compu
   - 100: Bitwise NOT (~A)
 - Synchronous testbench simulation
 
+<img width="646" height="241" alt="image" src="https://github.com/user-attachments/assets/cd37ce4d-ef8a-449f-9e14-b9fba5664751" />
+
 
